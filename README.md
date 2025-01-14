@@ -1,4 +1,4 @@
-# Google Sheets Clone:
+#Mimicking Google Sheets
 
 > A spreadsheet editing app build using Reactjs.
 
